@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BootCompleted-Receiver-Kotlin</string>
+    <string name="boot">BootCompleted receiver manifestda e\'lon qilindi</string>
+</resources>
